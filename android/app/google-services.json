@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361421917219",
+    "project_id": "food-admin-panel-9db43",
+    "storage_bucket": "food-admin-panel-9db43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361421917219:android:970dc9a1e7571c2ddbb596",
+        "android_client_info": {
+          "package_name": "com.example.food_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5SzhkOLlqlf9uKaZ9-AMxfGBEc-SHy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
