@@ -19,10 +19,10 @@ This is a Flutter-based admin control panel for a food delivery app, powered by 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ern-est/food-admin-panel.git
+   git clone https://github.com/Ern-est/e-commerce-admin-panel.git
 Navigate to the project directory:
 
-cd food-admin-panel
+cd e-commerce-admin-panel
 Install dependencies:
 
 flutter pub get
